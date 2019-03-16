@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from bs4 import BeautifulSoup
 import requests
 import os
@@ -15,14 +16,16 @@ def getTrack():
         return stdout
 artist=getArtist()
 title=getTrack()
-print(artist + " " + title)
+#print(artist + " " + title)
 title = title.replace(' ','-')
 title = title.replace('\n','')
 title = title.replace('?','')
 artist = artist.replace('\n','')
 url=artist+"-"+title+"-lyrics"
-print(url)
+#print(url)
 source=requests.get('https://genius.com/' + url).text
 soup=BeautifulSoup(source,'lxml')
 lyrics=soup.find('p')
+print(artist + ": " + title + " lyrics")
+print("-------------------------------------------------------------------")
 print(lyrics.text)
