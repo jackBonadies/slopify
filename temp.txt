@@ -187,8 +187,8 @@ version = '1.0.82';
 </script><meta property="fb:app_id" content="118234861672613"/>
 <meta name="google-signin-client_id" content="567628204450-49mrbnlqde6k322k6j1nmpstf86djv24.apps.googleusercontent.com">
 
-	<meta property="og:url" content="https://www.lyrics.com/lyric/32840200/Anohni/Hopelessness" />
-	<link rel="canonical" href="https://www.lyrics.com/lyric/32840200/Anohni/Hopelessness" />
+	<meta property="og:url" content="https://www.lyrics.com/lyric/32840200/ANOHNI/Execution" />
+	<link rel="canonical" href="https://www.lyrics.com/lyric/32840200/ANOHNI/Execution" />
 
 </head>
 <body id="s4-page-lyric" data-fb="118234861672613" data-atp="ra-4f75bf3d5305fac2">
@@ -325,7 +325,7 @@ She started her musical career performing with an ensemble of NYC musicians as A
             							            								<dt>Year:</dt>
         									<dd class="dd-margin"><a href="/year/2016" title="See all songs from this year">2016</a></dd>
             							            							<dt><i class="fa fa-eye" aria-hidden="true"></i></dt>
-            							<dd class="c-views">4&nbsp;Views</dd>
+            							<dd class="c-views">6&nbsp;Views</dd>
             						</dl>
         						</div>
 						</div>
@@ -395,7 +395,7 @@ I’ve been <a style="color:#222;" href="https://www.definitions.net/definition/
 					<center>
 <h3 class="lyric-artist">
 	<span style="font-weight: 700; font-size: 15px;">
-		<a rel="nofollow" href="https://www.30daysinger.com/a/8328/LfArfDh6?utm_campaign=lyrics_bottom_link&title=1" target="_blank"><i style="color: #666;" class="fa fa-check" aria-hidden="true"></i>&nbsp;Become A Better Singer <u>In Only 30 Days</u>, With <i>Easy</i> Video Lessons!</a>
+		<a rel="nofollow" href="https://www.30daysinger.com/a/8328/LfArfDh6?utm_campaign=lyrics_bottom_link&title=2" target="_blank"><i style="color: #666;" class="fa fa-check" aria-hidden="true"></i>&nbsp;Watch: New Singing Lesson Videos Can Make Anyone A Great Singer</a>
 	</span>
 </h3>
 </center>					<script>
@@ -519,7 +519,7 @@ if (window.innerWidth < 768) {
                 				<input type="hidden" name="action" id="frm-action" value="short_signin">
                 				<input type="hidden" name="source" id="frm-source" value="0">
                 				<input type="hidden" name="website" id="website" value="3">
-                				<input type="hidden" name="sra" id="fld-sra" value="68.14.81.252, 172.30.3.249">
+                				<input type="hidden" name="sra" id="fld-sra" value="68.14.81.252, 172.30.5.4">
                 				
                 				<div class="bcols clearfix row">
                 					
@@ -915,4 +915,4 @@ cf_adunit_id = "39381629";
 
 </body>
 </html>
-<!-- Timer: 0.1606 secs | Server: ip-172-30-3-253 -->
+<!-- Timer: 0.1653 secs | Server: ip-172-30-5-142 -->
